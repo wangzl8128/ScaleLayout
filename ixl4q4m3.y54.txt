@@ -1,0 +1,71 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   Dragment/.classpath
+#	new file:   Dragment/.project
+#	new file:   Dragment/.settings/org.eclipse.jdt.core.prefs
+#	new file:   Dragment/AndroidManifest.xml
+#	new file:   Dragment/bin/.gitignore
+#	new file:   Dragment/bin/AndroidManifest.xml
+#	new file:   Dragment/bin/Dragment.apk
+#	new file:   Dragment/bin/classes.dex
+#	new file:   Dragment/bin/dexedLibs/android-support-v4-be7e19fa75d3dc792c9f09d39139435e.jar
+#	new file:   Dragment/bin/dexedLibs/android-support-v4-cc1b77db6594d6e4fb79191a40796b6f.jar
+#	new file:   Dragment/bin/jarlist.cache
+#	new file:   Dragment/bin/res/crunch/drawable-hdpi/ic_launcher.png
+#	new file:   Dragment/bin/res/crunch/drawable-hdpi/l1.png
+#	new file:   Dragment/bin/res/crunch/drawable-hdpi/l2.png
+#	new file:   Dragment/bin/res/crunch/drawable-hdpi/l3.png
+#	new file:   Dragment/bin/res/crunch/drawable-hdpi/l4.png
+#	new file:   Dragment/bin/res/crunch/drawable-mdpi/ic_launcher.png
+#	new file:   Dragment/bin/res/crunch/drawable-xhdpi/ic_launcher.png
+#	new file:   Dragment/bin/res/crunch/drawable-xxhdpi/ic_launcher.png
+#	new file:   Dragment/bin/resources.ap_
+#	new file:   Dragment/ic_launcher-web.png
+#	new file:   Dragment/libs/android-support-v4.jar
+#	new file:   Dragment/libs/android-support-v4.jar.properties
+#	new file:   Dragment/proguard-project.txt
+#	new file:   Dragment/project.properties
+#	new file:   Dragment/res/drawable-hdpi/ic_launcher.png
+#	new file:   Dragment/res/drawable-hdpi/l1.png
+#	new file:   Dragment/res/drawable-hdpi/l2.png
+#	new file:   Dragment/res/drawable-hdpi/l3.png
+#	new file:   Dragment/res/drawable-hdpi/l4.png
+#	new file:   Dragment/res/drawable-mdpi/ic_launcher.png
+#	new file:   Dragment/res/drawable-xhdpi/ic_launcher.png
+#	new file:   Dragment/res/drawable-xxhdpi/ic_launcher.png
+#	new file:   Dragment/res/layout/activity_main.xml
+#	new file:   Dragment/res/layout/drag_item.xml
+#	new file:   Dragment/res/layout/fragment_main.xml
+#	new file:   Dragment/res/menu/main.xml
+#	new file:   Dragment/res/values-v11/styles.xml
+#	new file:   Dragment/res/values-v14/styles.xml
+#	new file:   Dragment/res/values-w820dp/dimens.xml
+#	new file:   Dragment/res/values/dimens.xml
+#	new file:   Dragment/res/values/strings.xml
+#	new file:   Dragment/res/values/styles.xml
+#	new file:   Dragment/src/com/wangzl8128/dragment/AccuracyCompare.java
+#	new file:   Dragment/src/com/wangzl8128/dragment/CopyOfScaleLayout.java
+#	new file:   Dragment/src/com/wangzl8128/dragment/DragScroller.java
+#	new file:   Dragment/src/com/wangzl8128/dragment/Dragment.java
+#	new file:   Dragment/src/com/wangzl8128/dragment/Dragment1.java
+#	new file:   Dragment/src/com/wangzl8128/dragment/Dragment2.java
+#	new file:   Dragment/src/com/wangzl8128/dragment/Dragment4.java
+#	new file:   Dragment/src/com/wangzl8128/dragment/Dragment5.java
+#	new file:   Dragment/src/com/wangzl8128/dragment/DragmentAdapter.java
+#	new file:   Dragment/src/com/wangzl8128/dragment/MainActivity.java
+#	new file:   Dragment/src/com/wangzl8128/dragment/PositionTransfer.java
+#	new file:   Dragment/src/com/wangzl8128/dragment/ScaleLayout.java
+#	new file:   Dragment/src/uk/co/senab/photoview/gestures/Compat.java
+#	new file:   Dragment/src/uk/co/senab/photoview/gestures/CupcakeGestureDetector.java
+#	new file:   Dragment/src/uk/co/senab/photoview/gestures/EclairGestureDetector.java
+#	new file:   Dragment/src/uk/co/senab/photoview/gestures/FroyoGestureDetector.java
+#	new file:   Dragment/src/uk/co/senab/photoview/gestures/GestureDetector.java
+#	new file:   Dragment/src/uk/co/senab/photoview/gestures/OnGestureListener.java
+#	new file:   Dragment/src/uk/co/senab/photoview/gestures/VersionedGestureDetector.java
+#
+
